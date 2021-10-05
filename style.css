@@ -1,0 +1,42 @@
+    * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+    }
+    
+    .fab {
+        font-size: 3rem;
+    }
+    
+    .fa-html5 {
+        color: #E34C26;
+    }
+    
+    .fa-css3-alt {
+        color: #2965f1;
+    }
+    
+    .fa-js {
+        color: #f0db4f;
+    }
+    
+    .fa-react {
+        color: #00d8ff
+    }
+    
+    .fa-git {
+        color: #F1502F;
+        text-shadow: -1px 0 #3E2C00, 0 1px #3E2C00, 1px 0 #3E2C00, 0 -1px #3E2C00;
+    }
+    
+    .fa-wordpress {
+        color: #00749C;
+    }
+    
+    span {
+        font-family: 'Raleway', sans-serif;
+    }
+    
+    a {
+        margin-bottom: 1rem;
+    }
